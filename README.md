@@ -1,2 +1,1 @@
-# MyUnityRepository
-unityProject
+下载后直接运行BoatTest.exe即可
